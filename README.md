@@ -1,6 +1,6 @@
-## Olá! Me chamo [Guilherme](https://gguilhermelopes.github.io)!
+# Olá! Eu me chamo [Guilherme](https://gguilhermelopes.github.io)!
 
-## I'm a Front End Developer!
+### Sou um desenvolvedor Front-End 💻
 
 -
 
