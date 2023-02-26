@@ -2,7 +2,6 @@
 
 ### Sou um desenvolvedor Front-End 💻
 
--
 
 ![card](https://github-readme-stats.vercel.app/api?username=gguilhermelopes&theme=dracula&show_icons=true)
 
