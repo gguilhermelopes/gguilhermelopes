@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gguilhermelopes&hide=html&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gguilhermelopes&hide=javascript,html)]
