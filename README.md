@@ -24,6 +24,8 @@ Seja bem-vindo(a)! Sou um Desenolvedor Front End, atualmente focado em atrelar m
 <img height= "50rem" alt="HTML5" src="https://user-images.githubusercontent.com/109265005/221436708-daab3b8f-0d98-4bda-8c5b-fdf1dfe399f5.svg" />
 <img height= "50rem" alt="mySQL" src="https://user-images.githubusercontent.com/109265005/221436911-c9913bc7-eaa6-4ed2-8e56-1870cebd3b7e.svg" />
 </div>
+
+
 ## Um pouco mais sobre mim ⚙️
 <div>
 • Sou graduado em Engenharia Eletrônica, mas sempre trabalhei com Tecnologia 🧑🏻‍🔬 <br>
