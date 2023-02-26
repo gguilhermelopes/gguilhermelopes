@@ -2,7 +2,10 @@
 
 ## Sou um Desenvolvedor Front End! 🖥️
 
-![portfolio-svgrepo-com](https://user-images.githubusercontent.com/109265005/221435085-56e9eacf-5df2-49b2-9827-465448055dd6.svg)
+<p align="center">
+  <a href="https://gguilhermelopes.github.io">PORFTFOLIO</a> •
+  <a href="https://www.linkedin.com/in/gguilhermelopes/">LINKEDIN</a>
+</p>
 
 
 
