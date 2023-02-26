@@ -3,8 +3,8 @@
 ## Sou um Desenvolvedor Front End! 🖥️
 
 <p align="center">
-  <a href="https://gguilhermelopes.github.io">PORFTFOLIO</a> •
-  <a href="https://www.linkedin.com/in/gguilhermelopes/">LINKEDIN</a>
+  <a href="https://gguilhermelopes.github.io">portfolio</a> •
+  <a href="https://www.linkedin.com/in/gguilhermelopes/">linkedin</a>
 </p>
 
 
