@@ -2,10 +2,7 @@
 
 ## Sou um Desenvolvedor Front End! 🖥️
 
-<p align="center">
- ![portfolio-svgrepo-com](https://user-images.githubusercontent.com/109265005/221435085-56e9eacf-5df2-49b2-9827-465448055dd6.svg) •
-  <a href="https://twitter.com/lauragift_">LINKEDIN</a>
-</p>
+![portfolio-svgrepo-com](https://user-images.githubusercontent.com/109265005/221435085-56e9eacf-5df2-49b2-9827-465448055dd6.svg)
 
 
 
