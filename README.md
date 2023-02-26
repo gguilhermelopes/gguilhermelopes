@@ -1,4 +1,5 @@
 ## Olá! 👋 Meu nome é Guilherme Lopes!
+<br>
 
 # Sou um Desenvolvedor Front End! 🖥️
 
@@ -8,7 +9,7 @@ Seja bem-vindo(a)! Sou um Desenolvedor Front End, atualmente focado em atrelar m
   <a href="https://gguilhermelopes.github.io">portfolio</a> •
   <a href="https://www.linkedin.com/in/gguilhermelopes/">linkedin</a>
 </p>
-
+<br><br>
 
 ## Skills 🖥️
 > **ReactJS • JavaScript • TypeScript • NodeJS • ExpressJS • CSS • SASS • Bootstrap • HTML5 • MySQL**
@@ -24,6 +25,7 @@ Seja bem-vindo(a)! Sou um Desenolvedor Front End, atualmente focado em atrelar m
 <img height= "50rem" alt="HTML5" src="https://user-images.githubusercontent.com/109265005/221436708-daab3b8f-0d98-4bda-8c5b-fdf1dfe399f5.svg" />
 <img height= "50rem" alt="mySQL" src="https://user-images.githubusercontent.com/109265005/221436911-c9913bc7-eaa6-4ed2-8e56-1870cebd3b7e.svg" />
 </div>
+<br><br>
 
 
 ## Um pouco mais sobre mim ⚙️
@@ -32,13 +34,36 @@ Seja bem-vindo(a)! Sou um Desenolvedor Front End, atualmente focado em atrelar m
 • Minha principal característica é a facilidade de aprendizado e a programação me trouxe o prazer de aprender novamente 📚  <br>
 • Meus hobbies incluem ouvir música, assistir a filmes, tocar guitarra, praticar esportes e até já participei do desenvolvimento de um filme! 🎸 🎥 ⚽ <br>
 </div>
+<br><br>
 
 ## Stats, Streaks e Top Languages 💾
 ![Stats](https://github-readme-stats.vercel.app/api?username=gguilhermelopes&show_icons=true&theme=dracula)
+<br>
 
 ![Streak](https://streak-stats.demolab.com/?user=gguilhermelopes&theme=dracula)
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gguilhermelopes&layout=compact&theme=dracula)
+<br>
+<br><br>
 
-## Contato
+## Contato ✉️
+
+<div align="center">
+  <div align="center">
+    <a href="https://https://www.linkedin.com/in/gguilhermelopes/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:50px;" target="_blank">
+    </a>
+    <a href = "mailto:guilhermelopes275@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:50px" target="_blank">
+    </a>
+    <a href="https://www.instagram.com/gguilhermelopes/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:50px;" target="_blank">
+    </a>
+  </div>
+  <br>
+  <img height="350 rem" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" />
+</div>
+
+
 
