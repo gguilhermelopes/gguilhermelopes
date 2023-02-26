@@ -1,6 +1,6 @@
-### Olá! 👋 Meu nome é Guilherme Lopes!
+## Olá! 👋 Meu nome é Guilherme Lopes!
 
-## Sou um Desenvolvedor Front End! 🖥️
+# Sou um Desenvolvedor Front End! 🖥️
 
 <p align="center">
   <a href="https://gguilhermelopes.github.io">portfolio</a> •
