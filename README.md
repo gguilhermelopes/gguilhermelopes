@@ -12,7 +12,7 @@ Seja bem-vindo(a)! Sou um Desenolvedor Front End, atualmente focado em ReactJS. 
 <br><br>
 
 ## Skills 🖥️
-> **ReactJS • JavaScript • TypeScript • NodeJS • ExpressJS • CSS • SASS • Bootstrap • HTML5 • MySQL**
+> **ReactJS • JavaScript • TypeScript • NodeJS • ExpressJS • CSS • SASS • Bootstrap • HTML5 • MongoDB • MySQL**
 <div>
 <img height= "50rem" alt="React" src="https://user-images.githubusercontent.com/109265005/221436560-1c004605-0471-41fe-845a-c466e801673e.svg" /> 
 <img height= "50rem" alt="JavaScript" src="https://user-images.githubusercontent.com/109265005/221436214-92d2f3aa-215c-4501-acab-23c3b6aff1cd.svg" />
@@ -23,9 +23,11 @@ Seja bem-vindo(a)! Sou um Desenolvedor Front End, atualmente focado em ReactJS. 
 <img height= "50rem" alt="SASS" src="https://user-images.githubusercontent.com/109265005/221437893-5da9c2c7-501c-4aff-997b-3aa080b3ee47.svg" />
 <img height= "50rem" alt="Bootstrap" src="https://user-images.githubusercontent.com/109265005/221437909-6bf3bcc9-ea48-4fe7-bdba-8c1ff84c9e66.svg" />
 <img height= "50rem" alt="HTML5" src="https://user-images.githubusercontent.com/109265005/221436708-daab3b8f-0d98-4bda-8c5b-fdf1dfe399f5.svg" />
+<img height= "50rem" alt="MongoDB" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg" />
 <img height= "50rem" alt="mySQL" src="https://user-images.githubusercontent.com/109265005/221436911-c9913bc7-eaa6-4ed2-8e56-1870cebd3b7e.svg" />
 </div>
 <br><br>
+
 
 
 ## Um pouco mais sobre mim ⚙️
