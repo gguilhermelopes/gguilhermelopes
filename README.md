@@ -12,19 +12,20 @@ Seja bem-vindo(a)! Sou um Desenolvedor Front End, atualmente focado em ReactJS. 
 <br><br>
 
 ## Skills 🖥️
-> **ReactJS • JavaScript • TypeScript • NodeJS • ExpressJS • CSS • SASS • Bootstrap • HTML5 • MongoDB • MySQL**
+> **ReactJS • NextJS • JavaScript • TypeScript • NodeJS • CSS • Tailwind • SASS • HTML5 • MongoDB • mySQL • Figma**
 <div>
-<img height= "50rem" alt="React" src="https://user-images.githubusercontent.com/109265005/221436560-1c004605-0471-41fe-845a-c466e801673e.svg" /> 
-<img height= "50rem" alt="JavaScript" src="https://user-images.githubusercontent.com/109265005/221436214-92d2f3aa-215c-4501-acab-23c3b6aff1cd.svg" />
-<img height= "50rem" alt="TypeScript" src="https://user-images.githubusercontent.com/109265005/221436885-0a90e837-8920-4141-af74-503e971e2e66.svg" />
-<img height= "50rem" alt="NodeJS" src="https://user-images.githubusercontent.com/109265005/221436733-fb3cae0c-8a0f-4c08-bd2a-6743ac439fe3.svg" />
-<img height= "50rem" alt="ExpressJS" src="https://user-images.githubusercontent.com/109265005/221437822-19c27b79-8b72-437b-84a5-14ad78e0a38e.svg" />
-<img height= "50rem" alt="CSS3" src="https://user-images.githubusercontent.com/109265005/221436667-7649df5e-77ef-4843-8902-bc6588e1cacd.svg" />
-<img height= "50rem" alt="SASS" src="https://user-images.githubusercontent.com/109265005/221437893-5da9c2c7-501c-4aff-997b-3aa080b3ee47.svg" />
-<img height= "50rem" alt="Bootstrap" src="https://user-images.githubusercontent.com/109265005/221437909-6bf3bcc9-ea48-4fe7-bdba-8c1ff84c9e66.svg" />
-<img height= "50rem" alt="HTML5" src="https://user-images.githubusercontent.com/109265005/221436708-daab3b8f-0d98-4bda-8c5b-fdf1dfe399f5.svg" />
+<img height= "50rem" alt="React" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" />
+<img height= "50rem" alt="Next" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg" />
+<img height= "50rem" alt="JavaScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg"/>
+<img height= "50rem" alt="TypeScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" />
+<img height= "50rem" alt="NodeJS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" />
+<img height= "50rem" alt="CSS3" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" />
+<img height= "50rem" alt="Tailwind" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TailwindCSS-Dark.svg" />
+<img height= "50rem" alt="SASS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Sass.svg" />
+<img height= "50rem" alt="HTML5" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" />
 <img height= "50rem" alt="MongoDB" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg" />
-<img height= "50rem" alt="mySQL" src="https://user-images.githubusercontent.com/109265005/221436911-c9913bc7-eaa6-4ed2-8e56-1870cebd3b7e.svg" />
+<img height= "50rem" alt="mySQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg" />
+<img height= "50rem" alt="Figma" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg" />
 </div>
 <br><br>
 
