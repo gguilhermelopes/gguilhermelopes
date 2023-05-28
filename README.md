@@ -3,7 +3,7 @@
 
 # Sou um Desenvolvedor Front End! 🖥️
 
-Seja bem-vindo(a)! Sou um Desenolvedor Front End, atualmente focado em ReactJS. Sinta-se livre para visitar meus [repositórios](https://github.com/gguilhermelopes?tab=repositories)! 🤙
+Seja bem-vindo(a)! Sou um Desenolvedor Front End, atualmente focado em React e Next. Sinta-se livre para visitar meus [repositórios](https://github.com/gguilhermelopes?tab=repositories)! 🤙
 
 <p align="center">
   <a href="https://gguilhermelopes.github.io">portfolio</a> •
