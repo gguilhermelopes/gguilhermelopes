@@ -1,9 +1,9 @@
 ## Olá! 👋 Meu nome é Guilherme Lopes!
 <br>
 
-# Sou um Desenvolvedor Front End! 🖥️
+# Sou um Desenvolvedor Web! 🖥️
 
-Seja bem-vindo(a)! Sou um Desenolvedor Front End, atualmente focado em React e Next. Sinta-se livre para visitar meus [repositórios](https://github.com/gguilhermelopes?tab=repositories)! 🤙
+Seja bem-vindo(a)! Sou um Desenolvedor Web, atualmente focado em React, Next e Java. Sinta-se livre para visitar meus [repositórios](https://github.com/gguilhermelopes?tab=repositories)! 🤙
 
 <p align="center">
   <a href="https://gguilhermelopes.github.io">portfolio</a> •
