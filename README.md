@@ -1,9 +1,9 @@
 ## Olá! 👋 Meu nome é Guilherme Lopes!
 <br>
 
-# Sou um Desenvolvedor Web! 🖥️
+# Sou um Desenvolvedor de Software! 🖥️
 
-Seja bem-vindo(a)! Sou um Desenolvedor Web, atualmente focado em React, Next e Java. Sinta-se livre para visitar meus [repositórios](https://github.com/gguilhermelopes?tab=repositories)! 🤙
+Seja bem-vindo(a)! Sou um Desenolvedor de Software, atualmente focado em Java, React e Next. Sinta-se livre para visitar meus [repositórios](https://github.com/gguilhermelopes?tab=repositories)! 🤙
 
 <p align="center">
   <a href="https://gguilhermelopes.github.io">portfolio</a> •
@@ -12,8 +12,10 @@ Seja bem-vindo(a)! Sou um Desenolvedor Web, atualmente focado em React, Next e J
 <br><br>
 
 ## Skills 🖥️
-> **ReactJS • NextJS • JavaScript • TypeScript • NodeJS • CSS • Tailwind • SASS • HTML5 • MongoDB • mySQL • Figma**
+> **Java • Spring • React • Next • JavaScript • TypeScript • NodeJS • CSS • Tailwind • SASS • HTML5 • MongoDB • mySQL • PostgreSQL • Figma**
 <div>
+<img height= "50rem" alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
+<img height= "50rem" alt="Spring" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" />
 <img height= "50rem" alt="React" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" />
 <img height= "50rem" alt="Next" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg" />
 <img height= "50rem" alt="JavaScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg"/>
@@ -25,6 +27,7 @@ Seja bem-vindo(a)! Sou um Desenolvedor Web, atualmente focado em React, Next e J
 <img height= "50rem" alt="HTML5" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" />
 <img height= "50rem" alt="MongoDB" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg" />
 <img height= "50rem" alt="mySQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg" />
+<img height= "50rem" alt="PostgreSQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
 <img height= "50rem" alt="Figma" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg" />
 </div>
 <br><br>
