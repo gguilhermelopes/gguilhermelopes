@@ -6,8 +6,8 @@
 Seja bem-vindo(a)! Sou um Desenolvedor de Software, atualmente focado em Java, React e Next. Sinta-se livre para visitar meus [repositórios](https://github.com/gguilhermelopes?tab=repositories)! 🤙
 
 <p align="center">
-  <a href="https://guilherme-lopes-portfolio.vercel.app">portfolio</a> •
-  <a href="https://www.linkedin.com/in/gguilhermelopes/">linkedin</a>
+  <a target="_blank" href="https://guilherme-lopes-portfolio.vercel.app">portfolio</a> •
+  <a target="_blank" href="https://www.linkedin.com/in/gguilhermelopes/">linkedin</a>
 </p>
 <br><br>
 
