@@ -1,9 +1,9 @@
 ## Olá! 👋 Meu nome é Guilherme Lopes!
 <br>
 
-# Sou um Desenvolvedor de Software! 🖥️
+# Sou Desenvolvedor Full Stack! 🖥️
 
-Seja bem-vindo(a)! Sou um Desenolvedor de Software, atualmente focado em Java, React e Next. Sinta-se livre para visitar meus [repositórios](https://github.com/gguilhermelopes?tab=repositories)! 🤙
+Seja bem-vindo(a)! Sou Desenvolvedor Full Stack com foco em **Back-end Python**, trabalhando com **FastAPI, Celery, RabbitMQ, PostgreSQL e Docker** no back e **React, TypeScript e Next.js** no front. Gosto de construir sistemas assíncronos, escaláveis e confiáveis em produção, e de usar IA para entregar mais rápido e melhor. Sinta-se livre para visitar meus [repositórios](https://github.com/gguilhermelopes?tab=repositories)! 🤙
 
 <p align="center">
   <a target="_blank" href="https://guilherme-lopes-portfolio.vercel.app">portfolio</a> •
@@ -12,32 +12,54 @@ Seja bem-vindo(a)! Sou um Desenolvedor de Software, atualmente focado em Java, R
 <br><br>
 
 ## Skills 🖥️
-> **Java • Spring • React • Next • JavaScript • TypeScript • NodeJS • CSS • Tailwind • SASS • HTML5 • MongoDB • mySQL • PostgreSQL • Figma**
-<div>
-<img height= "50rem" alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
-<img height= "50rem" alt="Spring" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" />
-<img height= "50rem" alt="React" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" />
-<img height= "50rem" alt="Next" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg" />
-<img height= "50rem" alt="JavaScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg"/>
-<img height= "50rem" alt="TypeScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" />
-<img height= "50rem" alt="NodeJS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" />
-<img height= "50rem" alt="CSS3" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" />
-<img height= "50rem" alt="Tailwind" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TailwindCSS-Dark.svg" />
-<img height= "50rem" alt="SASS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Sass.svg" />
-<img height= "50rem" alt="HTML5" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" />
-<img height= "50rem" alt="MongoDB" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg" />
-<img height= "50rem" alt="mySQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg" />
-<img height= "50rem" alt="PostgreSQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
-<img height= "50rem" alt="Figma" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg" />
-</div>
+> **Back-end:** Python • FastAPI • Celery • RabbitMQ • Node.js • Express • PHP • Java • Spring <br>
+> **Front-end:** React • Next.js • TypeScript • JavaScript • Tailwind • CSS • HTML5 <br>
+> **Dados & Infra:** PostgreSQL • MySQL • SQLAlchemy • Prisma • Docker • AWS • Git <br>
+> **IA:** Integração com LLMs (OpenAI) • RAG • Claude Code • Cursor • Codex
+
+<p align="left">
+  <img height="50rem" alt="Skills" src="https://skillicons.dev/icons?i=python,fastapi,rabbitmq,nodejs,express,php,java,spring&theme=dark" />
+  <br>
+  <img height="50rem" alt="Skills" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,css,html&theme=dark" />
+  <br>
+  <img height="50rem" alt="Skills" src="https://skillicons.dev/icons?i=postgres,mysql,prisma,docker,aws,git,linux&theme=dark" />
+</p>
 <br><br>
 
+## Experiência 💼
 
+**Full Stack Developer — Essencia** · ago/2024 – jul/2026
+- Evolução de uma plataforma SaaS multicanal em produção, com forte atuação em back-end Python (FastAPI + PostgreSQL) e front-end React/TypeScript
+- Arquitetura assíncrona com **Celery e RabbitMQ**, escalando a plataforma para **+10 mil mensagens processadas por dia**
+- Otimização de APIs e fluxos que reduziu em **~80% o consumo de memória** dos servidores, com **99,9% de disponibilidade**
+- Integração de **7 canais de comunicação** (WhatsApp Oficial e via QR Code, Instagram, Messenger, Voz, E-mail e Chat) via APIs externas e webhooks
+- Módulo de Campanhas para disparo de mensagens em massa por filas assíncronas e integrações com LLMs da OpenAI para automação de atendimentos
+- Fluxos de desenvolvimento assistido por IA (SDD, Harness Engineering, skills reutilizáveis), reduzindo em **40%+ o tempo de entrega** de novas features
+
+**Full Stack Developer — Freelancer** · set/2023 – out/2026
+- **+10 projetos entregues** para diferentes clientes, do levantamento de requisitos ao deploy
+- Back-ends em Python e Node.js, interfaces em React/Next.js, APIs REST, MySQL/PostgreSQL e sites com PHP/WordPress
+
+**Full Stack / Front-end Developer — Juniors Developers Group** · jul/2023 – fev/2024
+- Projetos colaborativos com React, Next.js, TypeScript, Node.js e Express, com liderança em partes das entregas e sessões técnicas sobre Prisma e Express
+
+**Antes do desenvolvimento:** Analista de Suporte de Software na Fagron Tech (SQL, troubleshooting, ~600 chamados/mês dentro de SLA) e técnico de suporte e manutenção de hardware.
+<br><br>
+
+## Certificações 🏅
+- **AWS Certified AI Practitioner (AIF-C01)** — Amazon Web Services, 2026
+- Workshop Desenvolvimento com IA — Tech Leads club, 2026
+- EF SET English Certificate — **C2 Proficient** (84/100)
+- React com TypeScript e Redux com React — Origamid
+- Java | POO, Next.js 13 Bootcamp e React Native — Udemy
+- Java (Basic) e CSS — HackerRank
+<br><br>
 
 ## Um pouco mais sobre mim ⚙️
 <div>
 • Sou graduado em Engenharia Eletrônica, mas sempre trabalhei com Tecnologia 🧑🏻‍🔬 <br>
-• Minha principal característica é a facilidade de aprendizado e a programação me trouxe o prazer de aprender novamente 📚  <br>
+• Minha principal característica é a facilidade de aprendizado e a programação me trouxe o prazer de aprender novamente 📚 <br>
+• Me interesso cada vez mais por Product Engineering: entender o problema, o usuário e os dados por trás de cada feature 📈 <br>
 • Meus hobbies incluem ouvir música, assistir a filmes, tocar guitarra, praticar esportes e até já participei do desenvolvimento de um filme! 🎸 🎥 ⚽ <br>
 </div>
 <br><br>
@@ -70,6 +92,3 @@ Seja bem-vindo(a)! Sou um Desenolvedor de Software, atualmente focado em Java, R
   <br>
   <img width="350 rem" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" />
 </div>
-
-
-
