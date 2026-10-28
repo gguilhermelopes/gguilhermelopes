@@ -12,19 +12,47 @@ Seja bem-vindo(a)! Sou Desenvolvedor Full Stack com foco em **Back-end Python**,
 <br><br>
 
 ## Skills 🖥️
-> **Back-end:** Python • FastAPI • Celery • RabbitMQ • Node.js • Express • PHP • Java • Spring <br>
-> **Front-end:** React • Next.js • TypeScript • JavaScript • Tailwind • CSS • HTML5 <br>
-> **Dados & Infra:** PostgreSQL • MySQL • SQLAlchemy • Prisma • Docker • AWS • Git <br>
-> **IA:** Integração com LLMs (OpenAI) • RAG • Claude Code • Cursor • Codex
 
-<p align="left">
-  <img height="50rem" alt="Skills" src="https://skillicons.dev/icons?i=python,fastapi,rabbitmq,nodejs,express,php,java,spring&theme=dark" />
-  <br>
-  <img height="50rem" alt="Skills" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,css,html&theme=dark" />
-  <br>
-  <img height="50rem" alt="Skills" src="https://skillicons.dev/icons?i=postgres,mysql,prisma,docker,aws,git,linux&theme=dark" />
-</p>
-<br><br>
+<table>
+  <tr>
+    <td width="130"><b>Back-end</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,fastapi,rabbitmq,nodejs,express,php,java,spring&theme=light">
+        <img height="40" alt="Python, FastAPI, RabbitMQ, Node.js, Express, PHP, Java, Spring" src="https://skillicons.dev/icons?i=python,fastapi,rabbitmq,nodejs,express,php,java,spring&theme=dark">
+      </picture>
+      <br>
+      <sub>Python, FastAPI, Celery, RabbitMQ, Node.js, Express, PHP, Java, Spring</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,css,html&theme=light">
+        <img height="40" alt="React, Next.js, TypeScript, JavaScript, Tailwind, CSS, HTML" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,css,html&theme=dark">
+      </picture>
+      <br>
+      <sub>React, Next.js, TypeScript, JavaScript, Tailwind, CSS, HTML</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Dados e infra</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,prisma,docker,aws,git,linux&theme=light">
+        <img height="40" alt="PostgreSQL, MySQL, Prisma, Docker, AWS, Git, Linux" src="https://skillicons.dev/icons?i=postgres,mysql,prisma,docker,aws,git,linux&theme=dark">
+      </picture>
+      <br>
+      <sub>PostgreSQL, MySQL, SQLAlchemy, Prisma, Docker, AWS, Git, Linux</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>IA</b></td>
+    <td>Integração com LLMs (OpenAI), RAG, Claude Code, Cursor e Codex</td>
+  </tr>
+</table>
+<br>
 
 ## Experiência 💼
 
