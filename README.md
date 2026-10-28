@@ -18,7 +18,7 @@ Seja bem-vindo(a)! Sou Desenvolvedor Full Stack com foco em **Back-end Python**,
     <td width="130"><b>Back-end</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,fastapi,rabbitmq,nodejs,express,php,java,spring&theme=light">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Crabbitmq%2Cnodejs%2Cexpress%2Cphp%2Cjava%2Cspring&theme=light">
         <img height="40" alt="Python, FastAPI, RabbitMQ, Node.js, Express, PHP, Java, Spring" src="https://skillicons.dev/icons?i=python,fastapi,rabbitmq,nodejs,express,php,java,spring&theme=dark">
       </picture>
       <br>
@@ -29,7 +29,7 @@ Seja bem-vindo(a)! Sou Desenvolvedor Full Stack com foco em **Back-end Python**,
     <td><b>Front-end</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,css,html&theme=light">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Cjs%2Ctailwind%2Ccss%2Chtml&theme=light">
         <img height="40" alt="React, Next.js, TypeScript, JavaScript, Tailwind, CSS, HTML" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,css,html&theme=dark">
       </picture>
       <br>
@@ -40,7 +40,7 @@ Seja bem-vindo(a)! Sou Desenvolvedor Full Stack com foco em **Back-end Python**,
     <td><b>Dados e infra</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,prisma,docker,aws,git,linux&theme=light">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cprisma%2Cdocker%2Caws%2Cgit%2Clinux&theme=light">
         <img height="40" alt="PostgreSQL, MySQL, Prisma, Docker, AWS, Git, Linux" src="https://skillicons.dev/icons?i=postgres,mysql,prisma,docker,aws,git,linux&theme=dark">
       </picture>
       <br>
@@ -49,7 +49,7 @@ Seja bem-vindo(a)! Sou Desenvolvedor Full Stack com foco em **Back-end Python**,
   </tr>
   <tr>
     <td><b>IA</b></td>
-    <td>Integração com LLMs (OpenAI), RAG, Claude Code, Cursor e Codex</td>
+    <td><sub>Integração com LLMs (OpenAI), RAG, Claude Code, Cursor, Codex</sub></td>
   </tr>
 </table>
 <br>
